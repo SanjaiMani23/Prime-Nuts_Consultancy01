@@ -1,0 +1,1909 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-01",
+      "name": "The Prime Nuts Admin",
+      "email": "admin@theprimenuts.com",
+      "phone": "+91 99946 27970",
+      "role": "admin",
+      "addresses": [
+        {
+          "id": "addr-store-01",
+          "fullName": "The Prime Nuts Store",
+          "phone": "+91 99946 27970",
+          "street": "Opp. Abirami Hospital, Madukarai Main Road, Sundarapuram",
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "pincode": "641024",
+          "isDefault": true
+        }
+      ],
+      "wishlist": [
+        "prod-cashew-02",
+        "combo-25-item-20"
+      ],
+      "createdAt": "2026-08-19T14:02:22.365Z",
+      "password_hash": "$argon2id$v=19$m=65536,p=4,t=3$bU1hhxEew11Z24gUgr3pwA$cyz35swRroTyBZIA0sp2hg6GpJbXIMS3yDF+hK2VnG0",
+      "is_active": true,
+      "email_verified": true,
+      "updatedAt": "2026-08-26T04:44:52.690Z",
+      "last_login_at": "2026-08-26T04:44:52.690Z"
+    },
+    {
+      "id": "usr-demo-02",
+      "name": "Karthik Ramanathan",
+      "email": "customer@theprimenuts.com",
+      "phone": "+91 98765 43210",
+      "password": "$2b$10$7qZkgPkFeb0vsHu4RQBFOOqBqj6Afh4oKlD7IQFWJYy7StiVqfG.G",
+      "role": "customer",
+      "addresses": [
+        {
+          "id": "addr-cbe-01",
+          "fullName": "Karthik Ramanathan",
+          "phone": "+91 98765 43210",
+          "street": "14/B, Nehru Nagar East, Kalapatti Road, Aerodrome PO",
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "pincode": "641014",
+          "isDefault": true
+        }
+      ],
+      "wishlist": [
+        "prod-almond-01",
+        "combo-15-in-1-21",
+        "gift-royal-velvet-24"
+      ],
+      "createdAt": "2026-08-19T14:02:22.365Z",
+      "password_hash": "$2b$10$7qZkgPkFeb0vsHu4RQBFOOqBqj6Afh4oKlD7IQFWJYy7StiVqfG.G",
+      "is_active": true,
+      "email_verified": false,
+      "updatedAt": "2026-08-19T14:02:22.365Z"
+    },
+    {
+      "id": "usr-1787718000141-kybum",
+      "name": "Sanjai Mani",
+      "email": "sadmin@theprimenuts.com",
+      "phone": "+916374028132",
+      "password": "$2b$10$dMvVQIH78gEYJzSDjclRJeYel4.1GJh7cS6pH1uKFPNO0jG9zrxb6",
+      "role": "customer",
+      "addresses": [],
+      "wishlist": [],
+      "createdAt": "2026-08-26T04:20:00.141Z",
+      "password_hash": "$2b$10$dMvVQIH78gEYJzSDjclRJeYel4.1GJh7cS6pH1uKFPNO0jG9zrxb6",
+      "is_active": true,
+      "email_verified": false,
+      "updatedAt": "2026-08-26T04:20:00.141Z"
+    },
+    {
+      "id": "usr-1787719259175-9ocxd",
+      "name": "Sanjai Mani",
+      "email": "sanjai.mani666@gmail.com",
+      "phone": "+916374028132",
+      "password_hash": "$argon2id$v=19$m=65536,p=4,t=3$ee7sZKc44R7qTMxJ09KLmQ$tQBl8bCInhXWAHincS9ci847rlDeB9IpSkBwjN8oQfM",
+      "role": "customer",
+      "is_active": true,
+      "email_verified": false,
+      "addresses": [],
+      "wishlist": [],
+      "createdAt": "2026-08-26T04:40:59.175Z",
+      "updatedAt": "2026-08-26T04:40:59.175Z",
+      "last_login_at": "2026-08-26T04:40:59.175Z"
+    },
+    {
+      "id": "usr-1787719343824-sy063",
+      "name": "Sanjai Mani",
+      "email": "sanjai.mani666admin@theprimenutsgmail.com",
+      "phone": "+916374028132",
+      "password_hash": "$argon2id$v=19$m=65536,p=4,t=3$nNz9EZ3oW1J+i6g+dblyBQ$GmxWjBhGkKNIMOdCs9bpe0Pge5v66ab8Hh+oRGc8K3I",
+      "role": "customer",
+      "is_active": true,
+      "email_verified": false,
+      "addresses": [],
+      "wishlist": [],
+      "createdAt": "2026-08-26T04:42:23.824Z",
+      "updatedAt": "2026-08-26T04:42:23.824Z",
+      "last_login_at": "2026-08-26T04:42:23.824Z"
+    },
+    {
+      "id": "usr-1787719425361-t0igu",
+      "name": "memo",
+      "email": "memoadmin@theprimenuts.com",
+      "phone": "",
+      "password_hash": "$argon2id$v=19$m=65536,p=4,t=3$tPUXcwQ1+ndYMJ4+IjLRog$4gi94uqbwzOjap3UiL8u4XrW3yqcoFuXQS8kPfJTBmU",
+      "role": "customer",
+      "is_active": true,
+      "email_verified": false,
+      "addresses": [],
+      "wishlist": [],
+      "createdAt": "2026-08-26T04:43:45.361Z",
+      "updatedAt": "2026-08-26T04:43:45.361Z",
+      "last_login_at": "2026-08-26T04:43:45.361Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-almonds",
+      "slug": "almonds-badam",
+      "name": "Almonds / Badam",
+      "tamilName": "பாதாம்",
+      "category": "Nuts",
+      "shortDescription": "Whole natural almonds selected for everyday snacking and cooking.",
+      "description": "Crisp and whole natural almonds. Suitable for daily consumption, soaking, baking, and traditional sweet preparations.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/almonds_badam.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 99,
+          "originalPrice": 120,
+          "stock": 150,
+          "sku": "ALM-100"
+        },
+        {
+          "weight": "250g",
+          "price": 240,
+          "originalPrice": 280,
+          "stock": 120,
+          "sku": "ALM-250"
+        },
+        {
+          "weight": "500g",
+          "price": 460,
+          "originalPrice": 540,
+          "stock": 90,
+          "sku": "ALM-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 890,
+          "originalPrice": 1050,
+          "stock": 50,
+          "sku": "ALM-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Whole Almonds"
+      ],
+      "storage": "Store in an airtight container in a cool, dry place.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.976Z"
+    },
+    {
+      "id": "prod-cashews",
+      "slug": "cashews-munthiri",
+      "name": "Cashews / முந்திரி",
+      "tamilName": "முழு முந்திரி",
+      "category": "Nuts",
+      "shortDescription": "Whole white cashew kernels selected for rich taste and crunch.",
+      "description": "Selected whole cashew nuts with a smooth and crunchy texture. Ideal for snacking, festive sweets, and gravies.",
+      "quote": "மொறுமொறுப்பான முந்திரி... ஒவ்வொரு கடியிலும் அலாதி சுவை!",
+      "images": [
+        "/images/products/cashews_w240.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 120,
+          "originalPrice": 140,
+          "stock": 130,
+          "sku": "CSH-100"
+        },
+        {
+          "weight": "250g",
+          "price": 290,
+          "originalPrice": 340,
+          "stock": 110,
+          "sku": "CSH-250"
+        },
+        {
+          "weight": "500g",
+          "price": 560,
+          "originalPrice": 660,
+          "stock": 80,
+          "sku": "CSH-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 1080,
+          "originalPrice": 1280,
+          "stock": 45,
+          "sku": "CSH-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Whole Cashews"
+      ],
+      "storage": "Store in an airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-pistachios",
+      "slug": "pistachios-pista",
+      "name": "Pistachios / பிஸ்தா",
+      "tamilName": "வறுத்த பிஸ்தா",
+      "category": "Nuts",
+      "shortDescription": "Roasted and salted in-shell pistachios with green kernels.",
+      "description": "Evenly roasted in-shell pistachios with light salt. Great as a nutritious snack or dessert garnish.",
+      "quote": "தரம் பிரீமியம், விலை மினிமம்... நட்ஸ் வாங்குங்க நச்சுனு வாழுங்க!",
+      "images": [
+        "/images/products/pistachios_pista.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 140,
+          "originalPrice": 160,
+          "stock": 100,
+          "sku": "PIS-100"
+        },
+        {
+          "weight": "250g",
+          "price": 330,
+          "originalPrice": 380,
+          "stock": 85,
+          "sku": "PIS-250"
+        },
+        {
+          "weight": "500g",
+          "price": 640,
+          "originalPrice": 740,
+          "stock": 65,
+          "sku": "PIS-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 1240,
+          "originalPrice": 1440,
+          "stock": 40,
+          "sku": "PIS-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Pistachios (In-shell), Edible Salt"
+      ],
+      "storage": "Keep in a cool, dry place in an airtight jar.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-walnuts",
+      "slug": "walnuts-akroot",
+      "name": "Walnuts / அக்ரூட்",
+      "tamilName": "வால்நட் பருப்பு",
+      "category": "Nuts",
+      "shortDescription": "Whole and halved walnut kernels with mild flavor and crisp texture.",
+      "description": "Clean shelled walnut halves and quarters ready to eat. Perfect for morning soaking, cereals, and baking.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/walnuts_kernels.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 150,
+          "originalPrice": 180,
+          "stock": 90,
+          "sku": "WAL-100"
+        },
+        {
+          "weight": "250g",
+          "price": 340,
+          "originalPrice": 400,
+          "stock": 75,
+          "sku": "WAL-250"
+        },
+        {
+          "weight": "500g",
+          "price": 660,
+          "originalPrice": 780,
+          "stock": 55,
+          "sku": "WAL-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 1280,
+          "originalPrice": 1520,
+          "stock": 30,
+          "sku": "WAL-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Walnut Kernels"
+      ],
+      "storage": "Refrigerate in an airtight container for best freshness.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-groundnut",
+      "slug": "groundnut-peanuts",
+      "name": "Groundnut / Peanuts / நிலக்கடலை",
+      "tamilName": "நிலக்கடலை பருப்பு",
+      "category": "Nuts",
+      "shortDescription": "Clean shelled groundnut kernels for daily snacking and cooking.",
+      "description": "High-quality groundnut kernels selected for freshness. Ideal for roasting, chutneys, and everyday South Indian cooking.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/groundnuts_peanuts.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "250g",
+          "price": 60,
+          "originalPrice": 75,
+          "stock": 160,
+          "sku": "GNT-250"
+        },
+        {
+          "weight": "500g",
+          "price": 110,
+          "originalPrice": 140,
+          "stock": 120,
+          "sku": "GNT-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 210,
+          "originalPrice": 260,
+          "stock": 80,
+          "sku": "GNT-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Raw Groundnut Kernels"
+      ],
+      "storage": "Store in airtight container.",
+      "origin": "Tamil Nadu",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-makhana",
+      "slug": "makhana-foxnuts",
+      "name": "Makhana / Fox Nuts / தாமரை விதை",
+      "tamilName": "பெரிய மக்கானா",
+      "category": "Nuts",
+      "shortDescription": "Popped lotus seeds for light, healthy snacking.",
+      "description": "Clean popped lotus seeds (fox nuts). Can be dry-roasted with a pinch of salt and spices for a crispy snack.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/makhana_foxnuts.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 100,
+          "originalPrice": 120,
+          "stock": 120,
+          "sku": "MAK-100"
+        },
+        {
+          "weight": "250g",
+          "price": 230,
+          "originalPrice": 270,
+          "stock": 95,
+          "sku": "MAK-250"
+        },
+        {
+          "weight": "500g",
+          "price": 440,
+          "originalPrice": 520,
+          "stock": 65,
+          "sku": "MAK-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Popped Lotus Seeds"
+      ],
+      "storage": "Keep in an airtight jar to preserve crispness.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-fig",
+      "slug": "dried-fig-anjeer",
+      "name": "Dried Fig / Anjeer / அத்திப்பழம்",
+      "tamilName": "உலர் அத்திப்பழம்",
+      "category": "Dried Fruits",
+      "shortDescription": "Naturally dried round figs with soft texture and natural sweetness.",
+      "description": "Whole dried garland figs with a naturally sweet taste and chewy texture. Suitable for overnight soaking or direct consumption.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/dried_figs_anjeer.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 160,
+          "originalPrice": 190,
+          "stock": 110,
+          "sku": "FIG-100"
+        },
+        {
+          "weight": "250g",
+          "price": 380,
+          "originalPrice": 440,
+          "stock": 85,
+          "sku": "FIG-250"
+        },
+        {
+          "weight": "500g",
+          "price": 740,
+          "originalPrice": 860,
+          "stock": 60,
+          "sku": "FIG-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 1420,
+          "originalPrice": 1680,
+          "stock": 35,
+          "sku": "FIG-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Dried Figs"
+      ],
+      "storage": "Store in refrigerator for best softness and shelf life.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-dates",
+      "slug": "dates-medjool-kimia",
+      "name": "Dates / பேரீச்சம்பழம்",
+      "tamilName": "மெட்ஜூல் & கிமியா பேரீச்சை",
+      "category": "Dried Fruits",
+      "shortDescription": "Soft, plump natural dates with rich caramel sweetness.",
+      "description": "Selected soft whole dates. Free from added sugars or artificial glazes. Great for daily energy and natural sweetening.",
+      "quote": "ஏமாறாதீங்க... 100% ஒரிஜினல் மற்றும் பிரீமியம் நட்ஸ் இங்கே மட்டும் தான்!",
+      "images": [
+        "/images/products/dates_medjool.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "250g",
+          "price": 220,
+          "originalPrice": 260,
+          "stock": 120,
+          "sku": "DAT-250"
+        },
+        {
+          "weight": "500g",
+          "price": 420,
+          "originalPrice": 490,
+          "stock": 95,
+          "sku": "DAT-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 810,
+          "originalPrice": 950,
+          "stock": 65,
+          "sku": "DAT-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Whole Natural Dates"
+      ],
+      "storage": "Store in a cool dry place or refrigerator.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-black-raisins",
+      "slug": "black-raisins",
+      "name": "Black Raisins / கருப்பு திராட்சை",
+      "tamilName": "கருப்பு உலர் திராட்சை",
+      "category": "Dried Fruits",
+      "shortDescription": "Seedless long black raisins with natural sweet taste.",
+      "description": "Long dark seedless raisins dried naturally. Commonly soaked in water or consumed daily as part of balanced diet.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/black_raisins.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 70,
+          "originalPrice": 90,
+          "stock": 150,
+          "sku": "BR-100"
+        },
+        {
+          "weight": "250g",
+          "price": 160,
+          "originalPrice": 190,
+          "stock": 130,
+          "sku": "BR-250"
+        },
+        {
+          "weight": "500g",
+          "price": 300,
+          "originalPrice": 360,
+          "stock": 100,
+          "sku": "BR-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 580,
+          "originalPrice": 690,
+          "stock": 70,
+          "sku": "BR-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Sun-Dried Black Raisins"
+      ],
+      "storage": "Store in airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-yellow-raisins",
+      "slug": "yellow-raisins-kismis",
+      "name": "Yellow Raisins / Kismis / தங்க திராட்சை",
+      "tamilName": "தங்க உலர் திராட்சை",
+      "category": "Dried Fruits",
+      "shortDescription": "Juicy golden-yellow raisins for cooking and desserts.",
+      "description": "Juicy and sweet golden raisins. An essential staple for South Indian festive desserts like Kesari, Pongal, and Payasam.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/yellow_raisins.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 60,
+          "originalPrice": 75,
+          "stock": 150,
+          "sku": "YR-100"
+        },
+        {
+          "weight": "250g",
+          "price": 130,
+          "originalPrice": 155,
+          "stock": 130,
+          "sku": "YR-250"
+        },
+        {
+          "weight": "500g",
+          "price": 240,
+          "originalPrice": 290,
+          "stock": 110,
+          "sku": "YR-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 460,
+          "originalPrice": 550,
+          "stock": 75,
+          "sku": "YR-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Golden Raisins"
+      ],
+      "storage": "Store in dry place.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-badam-pisin",
+      "slug": "badam-pisin-almond-gum",
+      "name": "Badam Pisin / Almond Gum / பாதாம் பிசின்",
+      "tamilName": "சுத்தமான பாதாம் பிசின்",
+      "category": "Dried Fruits",
+      "shortDescription": "Natural crystalline almond gum for traditional drinks and Jigarthanda.",
+      "description": "Natural crystalline tears harvested from almond trees. Expands in water to form a cooling jelly for rose milk, sarbath, and Jigarthanda.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/badam_pisin.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 80,
+          "originalPrice": 100,
+          "stock": 120,
+          "sku": "BP-100"
+        },
+        {
+          "weight": "250g",
+          "price": 180,
+          "originalPrice": 220,
+          "stock": 90,
+          "sku": "BP-250"
+        },
+        {
+          "weight": "500g",
+          "price": 340,
+          "originalPrice": 400,
+          "stock": 60,
+          "sku": "BP-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Natural Almond Gum Resin"
+      ],
+      "storage": "Keep in a dry container away from moisture.",
+      "origin": "Tamil Nadu",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-dry-amla",
+      "slug": "dry-amla",
+      "name": "Dry Amla / உலர் நெல்லிக்காய்",
+      "tamilName": "உலர் நெல்லிக்காய் கேண்டி",
+      "category": "Dried Fruits",
+      "shortDescription": "Sun-dried amla pieces with balanced sweet and tangy taste.",
+      "description": "Diced Indian gooseberry pieces dried with light sweetness for easy everyday snacking.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/dry_amla.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 60,
+          "originalPrice": 75,
+          "stock": 140,
+          "sku": "AML-100"
+        },
+        {
+          "weight": "250g",
+          "price": 140,
+          "originalPrice": 170,
+          "stock": 100,
+          "sku": "AML-250"
+        },
+        {
+          "weight": "500g",
+          "price": 260,
+          "originalPrice": 320,
+          "stock": 75,
+          "sku": "AML-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Amla, Natural Sweetener"
+      ],
+      "storage": "Store in an airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-kiwi",
+      "slug": "dried-kiwi",
+      "name": "Dried Kiwi / உலர் கிவி",
+      "tamilName": "உலர் கிவி துண்டுகள்",
+      "category": "Dried Fruits",
+      "shortDescription": "Dehydrated green kiwi slices with refreshing sweet-tart flavor.",
+      "description": "Dehydrated green kiwi fruit slices with chewy texture and refreshing taste.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/dried_kiwi.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 90,
+          "originalPrice": 110,
+          "stock": 110,
+          "sku": "KIW-100"
+        },
+        {
+          "weight": "250g",
+          "price": 210,
+          "originalPrice": 250,
+          "stock": 80,
+          "sku": "KIW-250"
+        },
+        {
+          "weight": "500g",
+          "price": 390,
+          "originalPrice": 460,
+          "stock": 55,
+          "sku": "KIW-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Dried Kiwi Slices"
+      ],
+      "storage": "Cool dry location.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-cherry",
+      "slug": "dried-cherry",
+      "name": "Dried Cherry / உலர் செர்ரி",
+      "tamilName": "உலர் செர்ரி பழங்கள்",
+      "category": "Dried Fruits",
+      "shortDescription": "Dried red cherries for baking, snacking, and garnishing.",
+      "description": "Tender dried red cherries with natural fruit sweetness. Great for desserts and trail mixes.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/dried_cherry.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 120,
+          "originalPrice": 140,
+          "stock": 90,
+          "sku": "CHR-100"
+        },
+        {
+          "weight": "250g",
+          "price": 280,
+          "originalPrice": 330,
+          "stock": 70,
+          "sku": "CHR-250"
+        },
+        {
+          "weight": "500g",
+          "price": 540,
+          "originalPrice": 630,
+          "stock": 45,
+          "sku": "CHR-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Dried Cherries"
+      ],
+      "storage": "Store refrigerated.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-blueberry",
+      "slug": "dried-blueberry",
+      "name": "Dried Blueberry / உலர் ப்ளூபெர்ரி",
+      "tamilName": "உலர் ப்ளூபெர்ரி",
+      "category": "Dried Fruits",
+      "shortDescription": "Whole dried blueberries with natural berry flavor.",
+      "description": "Whole dried dark blueberries. Perfect for breakfast bowls, oats, yogurt, and baking.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/dried_blueberries.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 160,
+          "originalPrice": 190,
+          "stock": 85,
+          "sku": "BLU-100"
+        },
+        {
+          "weight": "250g",
+          "price": 360,
+          "originalPrice": 420,
+          "stock": 65,
+          "sku": "BLU-250"
+        },
+        {
+          "weight": "500g",
+          "price": 690,
+          "originalPrice": 810,
+          "stock": 45,
+          "sku": "BLU-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Whole Dried Blueberries"
+      ],
+      "storage": "Store refrigerated.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-pumpkin-seeds",
+      "slug": "pumpkin-seeds",
+      "name": "Pumpkin Seeds / பூசணி விதை",
+      "tamilName": "பச்சை பூசணி விதை",
+      "category": "Seeds",
+      "shortDescription": "Raw green pepitas pumpkin seeds for daily nutritional intake.",
+      "description": "Clean raw green hull-less pumpkin seeds. Suitable for eating raw, dry roasting, or adding to salads and smoothies.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/pumpkin_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 85,
+          "originalPrice": 105,
+          "stock": 140,
+          "sku": "PMP-100"
+        },
+        {
+          "weight": "250g",
+          "price": 190,
+          "originalPrice": 230,
+          "stock": 110,
+          "sku": "PMP-250"
+        },
+        {
+          "weight": "500g",
+          "price": 360,
+          "originalPrice": 430,
+          "stock": 80,
+          "sku": "PMP-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 690,
+          "originalPrice": 820,
+          "stock": 50,
+          "sku": "PMP-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "100% Raw Pumpkin Seeds"
+      ],
+      "storage": "Store in airtight container in a dry place.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-sunflower-seeds",
+      "slug": "sunflower-seeds",
+      "name": "Sunflower Seeds / சூரியகாந்தி விதை",
+      "tamilName": "சூரியகாந்தி விதை பருப்பு",
+      "category": "Seeds",
+      "shortDescription": "Shelled raw sunflower seed kernels for snacking and baking.",
+      "description": "Mild and crunchy shelled sunflower kernels ready to use in trail mixes, baking, and cooking.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/sunflower_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 55,
+          "originalPrice": 70,
+          "stock": 120,
+          "sku": "SUN-100"
+        },
+        {
+          "weight": "250g",
+          "price": 120,
+          "originalPrice": 145,
+          "stock": 95,
+          "sku": "SUN-250"
+        },
+        {
+          "weight": "500g",
+          "price": 220,
+          "originalPrice": 270,
+          "stock": 75,
+          "sku": "SUN-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 420,
+          "originalPrice": 500,
+          "stock": 45,
+          "sku": "SUN-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Shelled Sunflower Seeds"
+      ],
+      "storage": "Store in a dry location.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-chia-seeds",
+      "slug": "chia-seeds",
+      "name": "Chia Seeds / சியா விதைகள்",
+      "tamilName": "கருப்பு சியா விதைகள்",
+      "category": "Seeds",
+      "shortDescription": "Clean black chia seeds for smoothies, water, and puddings.",
+      "description": "Whole black chia seeds that swell in water to form a gel-like consistency. Ideal for drinks, smoothies, and overnight oats.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/chia_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 70,
+          "originalPrice": 90,
+          "stock": 140,
+          "sku": "CHI-100"
+        },
+        {
+          "weight": "250g",
+          "price": 160,
+          "originalPrice": 195,
+          "stock": 110,
+          "sku": "CHI-250"
+        },
+        {
+          "weight": "500g",
+          "price": 290,
+          "originalPrice": 360,
+          "stock": 85,
+          "sku": "CHI-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 550,
+          "originalPrice": 680,
+          "stock": 55,
+          "sku": "CHI-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Chia Seeds"
+      ],
+      "storage": "Keep in a cool, dry pantry.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-flax-seeds",
+      "slug": "flax-seeds",
+      "name": "Flax Seeds / ஆளி விதை",
+      "tamilName": "வறுத்த ஆளி விதை",
+      "category": "Seeds",
+      "shortDescription": "Roasted golden-brown flax seeds with pleasant nutty aroma.",
+      "description": "Clean roasted flax seeds. Can be consumed directly or powdered to add to rotis, dosas, and smoothies.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/flax_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 50,
+          "originalPrice": 65,
+          "stock": 130,
+          "sku": "FLX-100"
+        },
+        {
+          "weight": "250g",
+          "price": 110,
+          "originalPrice": 135,
+          "stock": 100,
+          "sku": "FLX-250"
+        },
+        {
+          "weight": "500g",
+          "price": 200,
+          "originalPrice": 250,
+          "stock": 80,
+          "sku": "FLX-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 380,
+          "originalPrice": 460,
+          "stock": 50,
+          "sku": "FLX-1KG"
+        }
+      ],
+      "defaultWeight": "500g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Roasted Flax Seeds"
+      ],
+      "storage": "Store in an airtight jar.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-halim-seeds",
+      "slug": "halim-seeds",
+      "name": "Halim Seeds (Garden Cress) / ஆலிவ் விதை",
+      "tamilName": "ஹாலிம் விதைகள்",
+      "category": "Seeds",
+      "shortDescription": "Clean garden cress seeds used in traditional preparations.",
+      "description": "Small reddish-brown garden cress seeds. Traditionally soaked in warm milk or water with jaggery.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/halim_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 90,
+          "originalPrice": 110,
+          "stock": 80,
+          "sku": "HAL-100"
+        },
+        {
+          "weight": "250g",
+          "price": 200,
+          "originalPrice": 245,
+          "stock": 60,
+          "sku": "HAL-250"
+        },
+        {
+          "weight": "500g",
+          "price": 380,
+          "originalPrice": 450,
+          "stock": 40,
+          "sku": "HAL-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Garden Cress Seeds"
+      ],
+      "storage": "Airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-sabja-seeds",
+      "slug": "sabja-seeds",
+      "name": "Sabja Seeds (Sweet Basil) / சப்ஜா விதை",
+      "tamilName": "இயற்கை சப்ஜா விதை",
+      "category": "Seeds",
+      "shortDescription": "Sweet basil seeds for falooda, sarbath, and refreshing summer drinks.",
+      "description": "Clean sweet basil seeds that swell quickly in water into soft translucent spheres. Great for cooling beverages and faloodas.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/sabja_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 70,
+          "originalPrice": 85,
+          "stock": 120,
+          "sku": "SAB-100"
+        },
+        {
+          "weight": "250g",
+          "price": 150,
+          "originalPrice": 180,
+          "stock": 90,
+          "sku": "SAB-250"
+        },
+        {
+          "weight": "500g",
+          "price": 280,
+          "originalPrice": 330,
+          "stock": 60,
+          "sku": "SAB-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Sweet Basil Seeds"
+      ],
+      "storage": "Cool dry place.",
+      "origin": "Tamil Nadu",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-watermelon-seeds",
+      "slug": "watermelon-seeds",
+      "name": "Watermelon Seeds (Magaz) / தர்பூசணி விதை",
+      "tamilName": "தர்பூசணி விதை பருப்பு",
+      "category": "Seeds",
+      "shortDescription": "Shelled white watermelon seed kernels for cooking and garnishing.",
+      "description": "Clean white shelled melon seeds commonly used for cooking rich gravies, sweets, and snacking.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/watermelon_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 65,
+          "originalPrice": 80,
+          "stock": 110,
+          "sku": "WAT-100"
+        },
+        {
+          "weight": "250g",
+          "price": 140,
+          "originalPrice": 170,
+          "stock": 80,
+          "sku": "WAT-250"
+        },
+        {
+          "weight": "500g",
+          "price": 260,
+          "originalPrice": 310,
+          "stock": 60,
+          "sku": "WAT-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Shelled Watermelon Seeds"
+      ],
+      "storage": "Airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-cucumber-seeds",
+      "slug": "cucumber-seeds",
+      "name": "Cucumber Seeds / வெள்ளரி விதை",
+      "tamilName": "வெள்ளரி விதை பருப்பு",
+      "category": "Seeds",
+      "shortDescription": "Clean shelled cucumber seeds for snacks and culinary recipes.",
+      "description": "Shelled cucumber seed kernels with mild flavor and crisp bite.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/cucumber_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 70,
+          "originalPrice": 85,
+          "stock": 95,
+          "sku": "CUC-100"
+        },
+        {
+          "weight": "250g",
+          "price": 150,
+          "originalPrice": 180,
+          "stock": 75,
+          "sku": "CUC-250"
+        },
+        {
+          "weight": "500g",
+          "price": 280,
+          "originalPrice": 330,
+          "stock": 50,
+          "sku": "CUC-500"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Shelled Cucumber Seeds"
+      ],
+      "storage": "Airtight container.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "prod-black-til",
+      "slug": "black-til-sesame",
+      "name": "Black Til (Sesame) / கருப்பு எள்ளு",
+      "tamilName": "இயற்கை கருப்பு எள்ளு",
+      "category": "Seeds",
+      "shortDescription": "Unpolished black sesame seeds for traditional sweets and idli podi.",
+      "description": "Clean unpolished black sesame seeds. Ideal for Ellu Urundai, spice powders, and daily culinary preparations.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/black_til.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "100g",
+          "price": 55,
+          "originalPrice": 70,
+          "stock": 120,
+          "sku": "TIL-100"
+        },
+        {
+          "weight": "250g",
+          "price": 120,
+          "originalPrice": 145,
+          "stock": 95,
+          "sku": "TIL-250"
+        },
+        {
+          "weight": "500g",
+          "price": 220,
+          "originalPrice": 260,
+          "stock": 70,
+          "sku": "TIL-500"
+        },
+        {
+          "weight": "1kg",
+          "price": 410,
+          "originalPrice": 490,
+          "stock": 45,
+          "sku": "TIL-1KG"
+        }
+      ],
+      "defaultWeight": "250g",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "100% Black Sesame Seeds"
+      ],
+      "storage": "Keep in dry container.",
+      "origin": "Tamil Nadu",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "combo-25-item",
+      "slug": "25-item-premium-combo",
+      "name": "25-Item Premium Combo",
+      "tamilName": "25 வகை ராயல் மெகா நட்ஸ் & டிரை ஃப்ரூட்ஸ் காம்போ",
+      "category": "Combos",
+      "shortDescription": "Store flagship box with 25 assorted nuts, dried fruits, seeds, and berries.",
+      "description": "Our most popular store combo featuring 25 distinct varieties including almonds, cashews, pistachios, walnuts, figs, dates, raisins, seeds, and berries packed in separate airtight compartments.",
+      "quote": "தரம் பிரீமியம், விலை மினிமம்... நட்ஸ் வாங்குங்க நச்சுனு வாழுங்க!",
+      "images": [
+        "/images/products/combo_25_item.jpg",
+        "/images/products/almonds_badam.jpg",
+        "/images/products/cashews_w240.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "1.25kg Mega Box (50g x 25)",
+          "price": 1499,
+          "originalPrice": 1850,
+          "stock": 50,
+          "sku": "CMB-25-1"
+        },
+        {
+          "weight": "2.5kg Family Box (100g x 25)",
+          "price": 2799,
+          "originalPrice": 3400,
+          "stock": 35,
+          "sku": "CMB-25-2"
+        }
+      ],
+      "defaultWeight": "1.25kg Mega Box (50g x 25)",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Combo Offer",
+        "Best Seller"
+      ],
+      "ingredients": [
+        "25 Assorted Whole Nuts, Berries, Dried Fruits & Seeds"
+      ],
+      "storage": "Store in cool dry conditions.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "combo-15-in-1",
+      "slug": "15-in-1-premium-nuts-seeds-dried-fruits-combo",
+      "name": "15-in-1 Premium Nuts, Seeds & Dried Fruits Combo",
+      "tamilName": "15-இன்-1 நட்ஸ், சீட்ஸ் & உலர் பழங்கள் காம்போ",
+      "category": "Combos",
+      "shortDescription": "Balanced mix of 15 selected nuts, super seeds, and dried fruits.",
+      "description": "A versatile daily mix containing almonds, cashews, walnuts, pumpkin seeds, sunflower seeds, chia, flax, black raisins, cranberries, and more.",
+      "quote": "சுத்தமான பேக்கிங், தரமான நட்ஸ்... உங்கள் நலம் எங்கள் லட்சியம்!",
+      "images": [
+        "/images/products/combo_15_in_1.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "500g Pack",
+          "price": 549,
+          "originalPrice": 650,
+          "stock": 80,
+          "sku": "CMB-15-500"
+        },
+        {
+          "weight": "1kg Mega Value Pack",
+          "price": 999,
+          "originalPrice": 1250,
+          "stock": 65,
+          "sku": "CMB-15-1KG"
+        }
+      ],
+      "defaultWeight": "1kg Mega Value Pack",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Combo Offer",
+        "Best Seller"
+      ],
+      "ingredients": [
+        "15 Assorted Nuts, Seeds and Dried Fruit Varieties"
+      ],
+      "storage": "Keep in an airtight jar.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "combo-5-seeds",
+      "slug": "5-seeds-combo",
+      "name": "5 Seeds Combo",
+      "tamilName": "5 வகை சீட்ஸ் ஹெல்த் காம்போ",
+      "category": "Combos",
+      "shortDescription": "Pumpkin + Sunflower + Chia + Roasted Flax + Watermelon Seeds.",
+      "description": "Equal proportions of 5 super seeds for daily consumption. Can be added to breakfast bowls, smoothies, or eaten directly.",
+      "quote": "கார்ப்பரேட் கிஃப்டிங்கிற்கு ஏற்ற மிகச்சிறந்த நட்ஸ் காம்போஸ்!",
+      "images": [
+        "/images/products/combo_5_seeds.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "500g (100g x 5)",
+          "price": 349,
+          "originalPrice": 420,
+          "stock": 120,
+          "sku": "CMB-5S-500"
+        },
+        {
+          "weight": "1kg (200g x 5)",
+          "price": 649,
+          "originalPrice": 780,
+          "stock": 90,
+          "sku": "CMB-5S-1KG"
+        }
+      ],
+      "defaultWeight": "500g (100g x 5)",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Value"
+      ],
+      "ingredients": [
+        "Pumpkin Seeds, Sunflower Seeds, Chia Seeds, Roasted Flax Seeds, Watermelon Seeds"
+      ],
+      "storage": "Store sealed in a dry place.",
+      "origin": "The Prime Nuts, Sundarapuram",
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "combo-badam-cashew-raisins",
+      "slug": "badam-cashew-yellow-black-raisins-combo",
+      "name": "Badam + Cashew + Yellow Raisins + Black Raisins Combo",
+      "tamilName": "பாதாம் + முந்திரி + கருப்பு & தங்க திராட்சை காம்போ",
+      "category": "Combos",
+      "shortDescription": "The classic kitchen combination of Almonds, Cashews, and two varieties of Raisins.",
+      "description": "Essential South Indian celebration bundle containing equal weights of California Almonds, Whole Cashews, Black Raisins, and Golden Yellow Raisins.",
+      "quote": "பண்டிகை கால ஸ்பெஷல்... உங்கள் வீட்டு விசேஷங்களுக்கு பிரீமியம் நட்ஸ்!",
+      "images": [
+        "/images/products/combo_badam_cashew_raisins.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "1kg (250g x 4)",
+          "price": 820,
+          "originalPrice": 980,
+          "stock": 100,
+          "sku": "CMB-TRIO-1"
+        },
+        {
+          "weight": "2kg (500g x 4)",
+          "price": 1580,
+          "originalPrice": 1890,
+          "stock": 55,
+          "sku": "CMB-TRIO-2"
+        }
+      ],
+      "defaultWeight": "1kg (250g x 4)",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Combo Offer"
+      ],
+      "ingredients": [
+        "Almonds, Cashews, Black Raisins, Golden Raisins"
+      ],
+      "storage": "Cool dry place.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "gift-royal-velvet",
+      "slug": "royal-velvet-dry-fruit-gift-box",
+      "name": "Royal Velvet Gift Box (6 Jars)",
+      "tamilName": "ராயல் வெல்வெட் 6-ஜார் கிஃப்ட் பாக்ஸ்",
+      "category": "Gift Packs",
+      "shortDescription": "Velvet-lined gift box with 6 jars of whole nuts and dried fruits.",
+      "description": "Gift box lined with plush velvet, housing 6 reusable jars filled with Almonds, Cashews, Pistachios, Walnuts, Figs, and Dates.",
+      "quote": "இனிப்புகளுக்குப் பதிலா, இந்த முறை நட்ஸ் பாக்ஸ் கொடுத்து அசத்துங்க!",
+      "images": [
+        "/images/products/gift_royal_velvet.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "600g Hamper (100g x 6 Jars)",
+          "price": 950,
+          "originalPrice": 1150,
+          "stock": 60,
+          "sku": "GFT-VEL-3"
+        },
+        {
+          "weight": "1.2kg Hamper (200g x 6 Jars)",
+          "price": 1650,
+          "originalPrice": 1950,
+          "stock": 45,
+          "sku": "GFT-VEL-6"
+        }
+      ],
+      "defaultWeight": "1.2kg Hamper (200g x 6 Jars)",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [
+        "Best Seller"
+      ],
+      "ingredients": [
+        "Almonds, Cashews, Pistachios, Walnuts, Figs, Dates"
+      ],
+      "storage": "Store in a dry environment.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "gift-wooden-chest",
+      "slug": "executive-wooden-dry-fruit-gift-box",
+      "name": "Executive Wooden Gift Box (4 Partitions)",
+      "tamilName": "எக்ஸ்க்ளூசிவ் உட்டன் நட்ஸ் கிஃப்ட் பாக்ஸ்",
+      "category": "Gift Packs",
+      "shortDescription": "Wooden gift chest with 4 partitions filled with nuts and dried fruits.",
+      "description": "Artisanal wooden gift box with brass clasp and 4 partitions filled with Cashews, Badam, Pistachios, and Dried Figs. Ideal for weddings and corporate gifting.",
+      "quote": "தங்க நாணயம் வேண்டாம்... உங்கள் சுற்றத்தாருக்கு ஆரோக்கியத்தை பரிசளிங்க!",
+      "images": [
+        "/images/products/gift_wooden_chest.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "800g Box (200g x 4)",
+          "price": 1290,
+          "originalPrice": 1550,
+          "stock": 40,
+          "sku": "GFT-WDN-4"
+        },
+        {
+          "weight": "1.6kg Box (400g x 4)",
+          "price": 2250,
+          "originalPrice": 2650,
+          "stock": 25,
+          "sku": "GFT-WDN-8"
+        }
+      ],
+      "defaultWeight": "800g Box (200g x 4)",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Badam, Cashew, Pista, Dried Fig"
+      ],
+      "storage": "Store in dry place.",
+      "origin": "The Prime Nuts, Sundarapuram, Coimbatore",
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "snack-fruit-chips",
+      "slug": "dry-fruit-chips",
+      "name": "Dry Fruit Chips / உலர் பழ சிப்ஸ்",
+      "tamilName": "இயற்கை உலர் பழ சிப்ஸ்",
+      "category": "Snacks",
+      "shortDescription": "Crispy vacuum-cooked fruit chips without excessive oil.",
+      "description": "Crispy fruit chips prepared with vacuum-cooking technology to retain natural color and crisp bite.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/snack_fruit_chips.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "150g Pouch",
+          "price": 150,
+          "originalPrice": 180,
+          "stock": 90,
+          "sku": "FCH-150"
+        },
+        {
+          "weight": "300g Pack",
+          "price": 280,
+          "originalPrice": 340,
+          "stock": 60,
+          "sku": "FCH-300"
+        }
+      ],
+      "defaultWeight": "150g Pouch",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Mixed Dehydrated Fruits, Rice Bran Oil (<25%), Salt"
+      ],
+      "storage": "Keep sealed.",
+      "origin": "Tamil Nadu",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    },
+    {
+      "id": "snack-vegetable-chips",
+      "slug": "dry-vegetable-chips",
+      "name": "Dry Vegetable Chips / காய்கறி சிப்ஸ்",
+      "tamilName": "இயற்கை காய்கறி சிப்ஸ்",
+      "category": "Snacks",
+      "shortDescription": "Crispy vacuum-cooked beetroot, sweet potato, and green bean chips.",
+      "description": "Crispy vegetable chips prepared using vacuum-cooking. Lightly seasoned with pink salt and mild pepper.",
+      "quote": "கெமிக்கல் இல்லாத இயற்கை சுவை... எங்கள் கடையின் உலர் பழங்கள்!",
+      "images": [
+        "/images/products/snack_vegetable_chips.jpg"
+      ],
+      "variants": [
+        {
+          "weight": "150g Pouch",
+          "price": 140,
+          "originalPrice": 170,
+          "stock": 95,
+          "sku": "VCH-150"
+        },
+        {
+          "weight": "300g Pack",
+          "price": 260,
+          "originalPrice": 310,
+          "stock": 65,
+          "sku": "VCH-300"
+        }
+      ],
+      "defaultWeight": "150g Pouch",
+      "rating": 0,
+      "reviewCount": 0,
+      "badges": [],
+      "ingredients": [
+        "Beetroot, Sweet Potato, Green Beans, Oil, Salt"
+      ],
+      "storage": "Keep sealed in an airtight pouch.",
+      "origin": "Tamil Nadu",
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isActive": true,
+      "createdAt": "2026-08-19T14:02:19.978Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "TPN-2026-8801",
+      "userId": "usr-demo-02",
+      "items": [
+        {
+          "productId": "prod-almond-01",
+          "productName": "California Almonds / Badam",
+          "productSlug": "california-badam-almonds",
+          "image": "https://images.unsplash.com/photo-1508061252445-5350f3ab0a55?auto=format&fit=crop&w=900&q=80",
+          "weight": "500g",
+          "price": 460,
+          "quantity": 2,
+          "total": 920
+        },
+        {
+          "productId": "combo-15-in-1-21",
+          "productName": "15-in-1 Power Nut, Seed & Berry Daily Wellness Mix",
+          "productSlug": "15-in-1-power-nut-seed-daily-mix",
+          "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=900&q=80",
+          "weight": "1kg Mega Value Pack",
+          "price": 999,
+          "quantity": 1,
+          "total": 999
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Karthik Ramanathan",
+        "phone": "+91 98765 43210",
+        "street": "14/B, Nehru Nagar East, Kalapatti Road, Aerodrome PO",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "pincode": "641014"
+      },
+      "deliveryMethod": "Free Tamil Nadu Delivery",
+      "paymentMethod": "UPI / Online",
+      "paymentStatus": "Paid",
+      "orderStatus": "Out for Delivery",
+      "subtotal": 1919,
+      "deliveryFee": 0,
+      "discount": 100,
+      "couponCode": "WELCOME100",
+      "total": 1819,
+      "timeline": [
+        {
+          "status": "Placed",
+          "timestamp": "2026-08-18T02:02:22.365Z",
+          "note": "Order placed online with UPI confirmation"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-08-18T10:02:22.365Z",
+          "note": "Payment verified and sent for packing"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "2026-08-19T00:02:22.365Z",
+          "note": "Airtight hygienic vacuum seal completed"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "2026-08-19T12:02:22.365Z",
+          "note": "Dispatched via Coimbatore Local Express"
+        }
+      ],
+      "createdAt": "2026-08-18T02:02:22.365Z",
+      "updatedAt": "2026-08-19T14:02:22.365Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "TPN-2026-8802",
+      "guestCustomer": {
+        "name": "Meena Soundararajan",
+        "email": "meena.s@gmail.com",
+        "phone": "+91 94432 11223"
+      },
+      "items": [
+        {
+          "productId": "gift-royal-velvet-24",
+          "productName": "Royal Velvet Luxury 6-Jar Gifting Hamper Box",
+          "productSlug": "royal-velvet-luxury-dry-fruit-gift-hamper",
+          "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80",
+          "weight": "1.2kg Hamper (200g x 6 Jars)",
+          "price": 1650,
+          "quantity": 1,
+          "total": 1650
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Meena Soundararajan",
+        "phone": "+91 94432 11223",
+        "street": "42, North Usman Road, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600017"
+      },
+      "deliveryMethod": "Free Tamil Nadu Delivery",
+      "paymentMethod": "Direct WhatsApp Order",
+      "paymentStatus": "WhatsApp Verified",
+      "orderStatus": "Packed",
+      "subtotal": 1650,
+      "deliveryFee": 0,
+      "discount": 0,
+      "total": 1650,
+      "timeline": [
+        {
+          "status": "Placed",
+          "timestamp": "2026-08-18T20:02:22.365Z",
+          "note": "Order placed via WhatsApp +91 99946 27970"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-08-19T02:02:22.365Z",
+          "note": "Confirmed with store manager"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "2026-08-19T10:02:22.365Z",
+          "note": "Packed with luxury gift ribbon"
+        }
+      ],
+      "createdAt": "2026-08-18T20:02:22.365Z",
+      "updatedAt": "2026-08-19T14:02:22.365Z"
+    }
+  ],
+  "reviews": [],
+  "offers": [
+    {
+      "id": "off-01",
+      "title": "Free Shipping Across Tamil Nadu",
+      "tamilTitle": "தமிழ்நாடு முழுவதும் இலவச டெலிவரி",
+      "code": "FREESHIP",
+      "discountPercent": 0,
+      "minOrderValue": 0,
+      "description": "Zero shipping charges on all orders delivered anywhere across Tamil Nadu.",
+      "validUntil": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "off-02",
+      "title": "Welcome First Order Discount",
+      "tamilTitle": "முதல் ஆர்டருக்கு ₹100 தள்ளுபடி",
+      "code": "WELCOME100",
+      "discountPercent": 10,
+      "minOrderValue": 999,
+      "description": "Get ₹100 flat discount on your first healthy dry fruits order above ₹999.",
+      "validUntil": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "off-03",
+      "title": "Mega Combo Special",
+      "tamilTitle": "மெகா காம்போ 15% சிறப்பு சலுகை",
+      "code": "COMBO15",
+      "discountPercent": 15,
+      "minOrderValue": 1499,
+      "description": "Extra 15% OFF on all 15-in-1, 25-Item and Festive Gifting Combos.",
+      "validUntil": "2026-12-31",
+      "isActive": true
+    }
+  ]
+}
